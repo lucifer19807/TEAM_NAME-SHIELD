@@ -23,6 +23,6 @@ This README provides an overview of the project, including team details, relevan
 - *Internal Presentation:* [Internal Presentation](https://github.com/lucifer19807/TEAM_NAME-SHIELD/blob/main/files/INTERNAL%20SIH_SHIELD.pptx)
 - *Final SIH Presentation:* [Final SIH Presentation](https://github.com/lucifer19807/TEAM_NAME-SHIELD/blob/main/files/INTERNAL%20SIH_SHIELD.pptx)
 - *Video Demonstration:* [Watch Video](https://www.youtube.com/watch?v=_LfapfSa2CE)
-- *Live Deployment:* [View Deployment](DEPLOYED LINK IF ANY)
+
 - *Source Code:* [GitHub Repository](https://github.com/Saumil004/SIH_INTERNAL_ROUND_1_SHIELD)
 - *Additional Resources:* [The Android app link](https://github.com/Saumil004/SIH_app)
